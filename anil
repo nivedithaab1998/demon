@@ -1,0 +1,7 @@
+n=10
+b=20
+c=30
+d=a+b
+print("the additaion of a and b is ",d)
+e=b+c
+print("the addition of b and c is ",e)
